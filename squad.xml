@@ -1,46 +1,59 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
-<squad nick="LA"> <!-- what will show up in brackets behind each member's name -->
-	<name>[LAST SURVIVORS]</name> <!-- clan name (FULL) -->
-	<email>[UNKNOWN]</email> <!-- clan's official (or leader's) email address -->
-	<web>[UNKNOWN]</web> <!-- clan website -->
-	<picture>BloodyHandLA.paa</picture> <!-- the squad logo. See post below for details -->
-	<title>[LA]</title> <!-- what you want to show on vehicles -->
-<member id="76561198032300018" nick="Whitelion"> <!-- Squad member's PID, Player name -->
-		<name>[UNKNOWN]</name> <!-- optional: real name or player name again -->
-		<email>[UNKNOWN]</email> <!-- optional: member's email address -->
-		<icq>[UNKNOWN]</icq> <!-- optional: ICQ, I used this with an edited XSL to show X-Fire usernames -->
-		<remark>[MOST DANGEROUS]</remark> <!-- "PLayer's Comment" anything they want to say. Does not word wrap in game -->
+<squad nick="LA">
+	<name>Last Survivors</name>
+	<email>[UNKNOWN]</email>
+	<web>[UNKNOWN]</web>
+	<picture>BloodyHandLA.paa</picture>
+	<title>[LA]</title>
+	
+	<member id="76561198032300018" nick="Whitelion">
+		<name>[LION]</name>
+		<email>[UNKNOWN]</email>
+		<icq>[UNKNOWN]</icq>
+		<remark>[MOST DANGEROUS]</remark>
 	</member>
-<member id="76561198065075185" nick="BLACKWOLF"> <!-- Squad member's PID, Player name -->
-		<name>[UNKNOWN]</name> <!-- optional: real name or player name again -->
-		<email>[UNKNOWN]</email> <!-- optional: member's email address -->
-		<icq>[UNKNOWN]</icq> <!-- optional: ICQ, I used this with an edited XSL to show X-Fire usernames -->
-		<remark>[MOST DANGEROUS]</remark> <!-- "PLayer's Comment" anything they want to say. Does not word wrap in game -->
+	<member id="76561198065075185" nick="BLACKWOLF">
+		<name>[POTATO]</name>
+		<email>[UNKNOWN]</email>
+		<icq>[UNKNOWN]</icq>
+		<remark>[MOST DANGEROUS]</remark>
 	</member>
-<member id="76561198017203645" nick="Ho1nz"> <!-- Squad member's PID, Player name -->
-		<name>[UNKNOWN]</name> <!-- optional: real name or player name again -->
-		<email>[UNKNOWN]</email> <!-- optional: member's email address -->
-		<icq>[UNKNOWN]</icq> <!-- optional: ICQ, I used this with an edited XSL to show X-Fire usernames -->
-		<remark>[MOST DANGEROUS]</remark> <!-- "PLayer's Comment" anything they want to say. Does not word wrap in game -->
+	<member id="76561198071665655" nick="Placebo">
+		<name>[VADER]</name>
+		<email>[UNKNOWN]</email>
+		<icq>[UNKNOWN]</icq>
+		<remark>[MOST DANGEROUS]</remark>
 	</member>
-<member id="76561198071665655" nick="Placebo"> <!-- Squad member's PID, Player name -->
-		<name>[UNKNOWN]</name> <!-- optional: real name or player name again -->
-		<email>[UNKNOWN]</email> <!-- optional: member's email address -->
-		<icq>[UNKNOWN]</icq> <!-- optional: ICQ, I used this with an edited XSL to show X-Fire usernames -->
-		<remark>[MOST DANGEROUS]</remark> <!-- "PLayer's Comment" anything they want to say. Does not word wrap in game -->
+	<member id="76561198102371744" nick="Happy">
+		<name>[UNKNOWN]</name>
+		<email>[UNKNOWN]</email>
+		<icq>[UNKNOWN]</icq>
+		<remark>[MOST DANGEROUS]</remark>
 	</member>
-<member id="76561198157064635" nick="Stenly"> <!-- Squad member's PID, Player name -->
-		<name>[UNKNOWN]</name> <!-- optional: real name or player name again -->
-		<email>[UNKNOWN]</email> <!-- optional: member's email address -->
-		<icq>[UNKNOWN]</icq> <!-- optional: ICQ, I used this with an edited XSL to show X-Fire usernames -->
-		<remark>[MOST DANGEROUS]</remark> <!-- "PLayer's Comment" anything they want to say. Does not word wrap in game -->
-</member>
-<member id="76561198073313181" nick="[KSK]Usas"> <!-- Squad member's PID, Player name -->
-		<name>[UNKNOWN]</name> <!-- optional: real name or player name again -->
-		<email>[UNKNOWN]</email> <!-- optional: member's email address -->
-		<icq>[UNKNOWN]</icq> <!-- optional: ICQ, I used this with an edited XSL to show X-Fire usernames -->
-		<remark>[MOST HARMLESS]</remark> <!-- "PLayer's Comment" anything they want to say. Does not word wrap in game -->
+	<member id="76561198079774722" nick="Sardukar">
+		<name>[SARDUK]</name>
+		<email>[UNKNOWN]</email>
+		<icq>[UNKNOWN]</icq>
+		<remark>[MOST INACTIVE]</remark>
+	</member>
+	<member id="76561198017203645" nick="Ho1nz">
+		<name>[UNKNOWN]</name>
+		<email>[UNKNOWN]</email>
+		<icq>[UNKNOWN]</icq>
+		<remark>[MOST DANGEROUS]</remark>
+	</member>
+	<member id="76561198157064635" nick="Stenly">
+		<name>[UNKNOWN]</name>
+		<email>[UNKNOWN]</email>
+		<icq>[UNKNOWN]</icq>
+		<remark>[MOST DANGEROUS]</remark>
+	</member>
+	<member id="76561198073313181" nick="[KSK]Usas">
+		<name>[LALKA]</name>
+		<email>[UNKNOWN]</email>
+		<icq>[UNKNOWN]</icq>
+		<remark>[MOST HARMLESS]</remark>
 	</member>
 </squad>
