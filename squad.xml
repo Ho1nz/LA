@@ -2,6 +2,7 @@
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
 <squad nick="LA">
+	
 	<name>Last Survivors</name>
 	<email>[UNKNOWN]</email>
 	<web>[UNKNOWN]</web>
@@ -9,7 +10,7 @@
 	<title>[LA]</title>
 	
 	<member id="76561198032300018" nick="Whitelion">
-		<name>[LION]</name>
+		<name>[LÖWE]</name>
 		<email>[UNKNOWN]</email>
 		<icq>[UNKNOWN]</icq>
 		<remark>[MOST DANGEROUS]</remark>
@@ -51,7 +52,7 @@
 		<remark>[MOST DANGEROUS]</remark>
 	</member>
 	<member id="76561198073313181" nick="[KSK]Usas">
-		<name>[LALKA]</name>
+		<name>[UNKNOWN]</name>
 		<email>[UNKNOWN]</email>
 		<icq>[UNKNOWN]</icq>
 		<remark>[MOST HARMLESS]</remark>
