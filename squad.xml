@@ -31,6 +31,12 @@
 		<icq>[UNKNOWN]</icq> <!-- optional: ICQ, I used this with an edited XSL to show X-Fire usernames -->
 		<remark>[MOST DANGEROUS]</remark> <!-- "PLayer's Comment" anything they want to say. Does not word wrap in game -->
 	</member>
+<member id="76561198157064635" nick="Stenly"> <!-- Squad member's PID, Player name -->
+		<name>[UNKNOWN]</name> <!-- optional: real name or player name again -->
+		<email>[UNKNOWN]</email> <!-- optional: member's email address -->
+		<icq>[UNKNOWN]</icq> <!-- optional: ICQ, I used this with an edited XSL to show X-Fire usernames -->
+		<remark>[MOST DANGEROUS]</remark> <!-- "PLayer's Comment" anything they want to say. Does not word wrap in game -->
+</member>
 <member id="76561198073313181" nick="[KSK]Usas"> <!-- Squad member's PID, Player name -->
 		<name>[UNKNOWN]</name> <!-- optional: real name or player name again -->
 		<email>[UNKNOWN]</email> <!-- optional: member's email address -->
